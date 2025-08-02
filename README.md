@@ -1,7 +1,7 @@
 # 🌟 Yvonne Kawira Portfolio
 
 Welcome to my personal portfolio website! This project showcases my journey into software development, my skills, educational background, and interests. It's a simple yet expressive HTML & CSS site designed to reflect my personality and aspirations as an aspiring developer.
-[Click here to view it live](https://github.com/yvira-2025/Yvonne-portfolio.git)
+[Click here to view it live](https://yvira-2025.github.io/Yvonne-portfolio/)
 ---
 
 ## 📌 Features
