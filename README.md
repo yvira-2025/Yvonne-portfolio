@@ -38,23 +38,23 @@ portfolio/
 
 ---
 
-## 📄 License
-
-This project is open for personal inspiration and learning.
+## 📄 How to Use
+Clone the repo and open `index.html` in your browser.
 
 ---
 
 ## 🙋‍♀️ About Me
 
 I’m Yvonne Kawira, a passionate learner exploring the world of software development. I’m currently growing my skills through the Power Learn Project and excited to build real-world applications soon.
-
+This project is open for personal inspiration and learning.
 ---
 
 ## 📫 Contact
 
 Want to connect or collaborate?
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [yvira-2025](https://github.com/yvira-2025/Yvonne-portfolio)
 - Email: (yvonnekawira453@gmail.com)
 
-```
+## 👩‍💻 Author
+Yvonne – Beginner web developer, Kenya.
