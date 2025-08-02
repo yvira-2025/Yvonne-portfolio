@@ -55,5 +55,6 @@ I’m Yvonne Kawira, a passionate learner exploring the world of software develo
 Want to connect or collaborate?
 
 - GitHub: [@yourusername](https://github.com/yourusername)
+- Email: (yvonnekawira453@gmail.com)
 
 ```
